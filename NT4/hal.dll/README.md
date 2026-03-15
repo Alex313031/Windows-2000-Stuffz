@@ -18,5 +18,4 @@ located at: `HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Win
 
 Please also note that this entire procedure will only work if Service Pack 6 (SP6) is installed!
 
-The developer of the SoftEx HAL.DLL is Softex Inc: 
-[http://www.softexinc.com(Web Archive)](https://web.archive.org/web/20050406032822fw_/http://www.softexinc.com/homeproductpage.asp) (Web Archive).
+The developer of the SoftEx HAL.DLL is Softex Inc: https://web.archive.org/web/20050406032822fw_/http://www.softexinc.com/homeproductpage.asp.
